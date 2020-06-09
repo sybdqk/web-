@@ -1,0 +1,14 @@
+@charset "UTF-8";
+h1{color:red;
+   text-align:center;
+   font-size:20px;
+   background:yellow;
+}
+p{
+	font-style:oblique;
+	text-align:center;
+	background:red
+}
+tr:nth-child(odd){
+	background-color:yellow;
+}
